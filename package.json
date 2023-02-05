@@ -1,0 +1,24 @@
+{
+  "name": "learn-3js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "parcel": "parcel", 
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alfred-Nelson/learn-3js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alfred-Nelson/learn-3js/issues"
+  },
+  "homepage": "https://github.com/Alfred-Nelson/learn-3js#readme",
+  "dependencies": {
+    "parcel": "^2.8.3",
+    "three": "^0.149.0"
+  }
+}
