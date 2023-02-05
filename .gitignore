@@ -1,0 +1,11 @@
+# ignore node_modules
+node_modules/
+
+# ignore dist
+dist/
+
+# ignore parcel cache
+.parcel-cache/
+
+# ignore lock file
+/package-lock.json
